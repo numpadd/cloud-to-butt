@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Cloud To Butt 2: Electric Boogaloo",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text 'the cloud' with 'my butt' and also does a bunch of other cool stuff.",
 	"content_scripts": 
 	[
 		{
